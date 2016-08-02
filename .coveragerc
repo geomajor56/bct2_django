@@ -1,0 +1,5 @@
+[run]
+include = bct2project/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
